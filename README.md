@@ -1,11 +1,10 @@
 ## 📝 Summary:
+
 <h1 align="center">Hi 👋, I'm Tran Thi Bao Tran</h1>
 
-
-- 👀 I’m interested in *Database*,....
+- I’m interested in \_Database**\_\_\_**
 
 - 📫 How to reach me **btrann102@gmail.com**.
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
